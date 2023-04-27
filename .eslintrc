@@ -1,8 +1,0 @@
-{
-  "extends": [
-    "twilio"
-  ],
-  "rules": {
-    "no-console": "off"
-  }
-}
